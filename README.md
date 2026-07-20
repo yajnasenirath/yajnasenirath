@@ -64,7 +64,7 @@
 
 <div align="center">
 
-## 💡 Quote
+
 
 ### *"Dream Big • Code Smart • Build the Future 🚀"*
 
