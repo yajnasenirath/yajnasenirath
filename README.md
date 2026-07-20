@@ -8,11 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=yajnasenirath&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
-
----
 
 #  *About Me*
 
