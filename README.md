@@ -14,7 +14,7 @@
 
 ---
 
-# 👩‍💻 About Me
+#  *About Me*
 
 🎓 MCA Student
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 🚀 Tech Stack
+#  *Tech Stack*
 
 <p align="center">
 
@@ -38,81 +38,7 @@
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yajnasenirath&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajnasenirath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yajnasenirath&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yajnasenirath&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yajnasenirath&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 💼 Featured Skills
-
-⭐ Frontend Development
-
-⭐ React.js
-
-⭐ JavaScript
-
-⭐ Python
-
-⭐ Java
-
-⭐ DSA
-
-⭐ Git & GitHub
-
-⭐ AI & Machine Learning
-
----
-
-# 📂 Featured Projects
-
-📌 React Portfolio Website
-
-📌 AI Powered Web Application
-
-📌 Java Console Projects
-
-📌 Machine Learning Projects
-
-📌 Frontend UI Clone Projects
-
----
-
-# 📚 Currently Learning
+# *Currently Learning*
 
 ✔ Advanced React
 
@@ -126,9 +52,7 @@
 
 ✔ System Design Basics
 
----
-
-# 🌐 Connect With Me
+#  *Connect With Me*
 
 <p align="center">
 
@@ -141,8 +65,6 @@
 </a>
 
 </p>
-
----
 
 <div align="center">
 
